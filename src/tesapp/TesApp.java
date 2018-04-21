@@ -15,4 +15,7 @@ public double getSum() {
 return this.a+this.b;
 }
 
+public double getVich(){
+    return this.a-this.b;
+}
 }
